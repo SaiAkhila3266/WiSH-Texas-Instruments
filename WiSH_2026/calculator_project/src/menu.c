@@ -3,6 +3,7 @@
 
 void printCalculatorMenu(void)
 {
-    /* TODO: Add a printf for your operation's menu item here (line 5) */
+printf("3. Multiplication\n");    /* TODO: Add a printf for your operation's menu item here (line 5) */
     printf("5. Exit\n");
 }
+/*updated*/
